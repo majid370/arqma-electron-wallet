@@ -22,7 +22,7 @@ export default {
         import: "وارد شده",
         importWallet: "کیف پول واردشده | کیف پول های وارد شده",
         next: "بعدی",
-        openWallet: "ایجاد کیف پول",
+        openWallet: "باز کردن کیف پول",
         receive: "دریافت",
         registerServiceNode: "فهرست خدمات نود",
         rescan: "بازبینی مجدد",
@@ -74,17 +74,17 @@ export default {
         deleteWallet: {
             title: "حذف کیف پول",
             message: "آیا کاملا جهت حذف کیف پول اطمینان دارید?\nمطمین شوید که از کلیدهای خصوصی خود نسخه پشتبان تهیه میکنید.\nاین فرایند قابل بازگشت نیست!",
-            ok: "حذف"
+            ok: "تایید"
         },
         exit: {
-            title: "Exit",
-            message: "Are you sure you want to exit?",
-            ok: "EXIT"
+            title: "خروج",
+            message: "آیامطمئن هستید میخواهید خروج شوید ؟",
+            ok: "تایید"
         },
         keyImages: {
             title: "{درحال تایپ کردن} تصاویر کلیدی",
             message: "آیا شما {در حال تایپ} تصاویر کلیدی را میخواهید?",
-            export: "خروج",
+            export: "صادرکردن",
             import: "ورود"
         },
         noPassword: {
